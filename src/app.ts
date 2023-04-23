@@ -3,6 +3,9 @@
  *  Created On 23 April 2023
  */
 
+// Run the following command 👇
+// pnpm exec tsx ./src/app.ts
+
 import { config } from 'dotenv'
 import { Configuration, OpenAIApi } from 'openai'
 import { TodoistApi } from '@doist/todoist-api-typescript'
