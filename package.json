@@ -1,0 +1,20 @@
+{
+    "name": "shorts-ideas-generator",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "author": {
+        "name": "Vasanth Srivatsa",
+        "email": "hey@vsnth.dev",
+        "url": "https://vsnth.dev"
+    },
+    "dependencies": {
+        "@doist/todoist-api-typescript": "^2.1.2",
+        "dotenv": "^16.0.3",
+        "openai": "^3.2.1",
+        "tsx": "^3.12.6"
+    },
+    "devDependencies": {
+        "@types/node": "^18.16.0"
+    }
+}
