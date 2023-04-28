@@ -9,7 +9,6 @@
         "url": "https://vsnth.dev"
     },
     "dependencies": {
-        "@doist/todoist-api-typescript": "^2.1.2",
         "dotenv": "^16.0.3",
         "openai": "^3.2.1",
         "tsx": "^3.12.6"
