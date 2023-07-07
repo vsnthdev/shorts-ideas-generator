@@ -1,8 +1,9 @@
 {
-    "name": "shorts-ideas-generator",
+    "name": "shorts-ideas",
     "version": "0.0.0",
     "private": true,
     "type": "module",
+    "bin": "src/index.ts",
     "author": {
         "name": "Vasanth Srivatsa",
         "email": "hey@vsnth.dev",

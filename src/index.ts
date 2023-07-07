@@ -1,3 +1,4 @@
+#!/usr/bin/env bun
 /*
  *  A CLI app for generating short form content ideas.
  *  Created On 07 July 2023
