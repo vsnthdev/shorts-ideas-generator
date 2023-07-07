@@ -29,5 +29,5 @@ await addToTodoist(topics)
 
 spinner.stop()
 
-console.log(`Here are the topics generated 👇\n\n${topics.join('\n')}\n\nThese have been added to your Todoist ✅ You can modify\nor remove them there 👌 thank you 👋`)
+console.log(`Here are the topics generated 👇\n\n${topics.join('\n')}\n\nThese have been added to your Todoist ✅ you can modify\nor remove them there 👌 thank you 👋`)
 process.exit(0)
